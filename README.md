@@ -1,2 +1,2 @@
-# XData
+# xdata
 netty-practice
